@@ -1,15 +1,15 @@
 {
-    "name": "scottharwell/google-charts",
+    "name": "shahariaazam/google-charts",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "google", "charts", "plugin"],
     "description": "A CakePHP plugin for creating Google Charts.",
-    "homepage": "http://github.com/scottharwell/GoogleCharts",
+    "homepage": "http://github.com/shahariaazam/GoogleCharts",
     "license": "Apache-2.0",
     "require": {
         "php": ">=5.3",
         "composer/installers": "*"
     },
     "support": {
-        "issues": "https://github.com/scottharwell/GoogleCharts/issues"
+        "issues": "https://github.com/shahariaazam/GoogleCharts/issues"
     }
 }
